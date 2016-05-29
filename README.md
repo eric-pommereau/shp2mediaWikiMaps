@@ -12,7 +12,7 @@ shp2mediaWiki.py > sortie.txt
 ```
 ## Résultat
 
-Visible [ici](http://scratchpad.referata.com/wiki/Test-map).
+Visible [ici](http://scratchpad.referata.com/wiki/Test-map). Le fichier de sortie : polygones au format wiki : https://raw.githubusercontent.com/eric-pommereau/shp2mediaWikiMaps/master/out/mediaWikiMapContent.txt#
 
 <img src="docs/images/mediawiki-map-sample1.4.png" width="600"> 
 
