@@ -11,6 +11,8 @@ Transformer un fichier shapefile de référence (département par exemple) en g�
 shp2mediaWiki.py > sortie.txt
 ```
 ## Résultat
+
+Visible [ici](http://scratchpad.referata.com/wiki/Test-map).
 <img src="docs/images/mediawiki-map-sample1.4.png" width="600"> 
 
 ##Réprésentation d'une géométrie
